@@ -1,6 +1,5 @@
 import RootElement from './router';
 import { ContextApi } from './context/contextApi';
-import "bootstrap/dist/css/bootstrap.min.css";
 
 
 function App() {
