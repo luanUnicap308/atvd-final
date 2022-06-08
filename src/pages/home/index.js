@@ -1,7 +1,5 @@
-import React, { useContext, useEffect, useState } from "react";
+import React from "react";
 import { Container } from "react-bootstrap";
-import { ContextApi } from "../../context/contextApi";
-import { myHobbies } from "../../utils/listprops";
 
 const Home = () => {
 
